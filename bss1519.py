@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Open CV 이용하는 code
 """
 Created on Thu Nov 15 00:01:46 2018
 

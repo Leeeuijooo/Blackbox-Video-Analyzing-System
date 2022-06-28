@@ -1,4 +1,7 @@
 ﻿# -*- coding: utf-8 -*-
+## easygui gui를 쉽게 해주는 건가...
+##
+
 import easygui
 import matplotlib.pyplot as plt
 from matplotlib import font_manager, rc  # 한글지원
